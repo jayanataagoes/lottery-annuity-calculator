@@ -1,0 +1,9 @@
+{
+  "name": "lottery-annuity-calculator",
+  "version": "1.0.0",
+  "description": "Estimate US lottery jackpot payouts: cash option vs 30-year annuity, after federal and state tax.",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://jackpotcalculator.com/",
+  "keywords": ["lottery", "powerball", "mega-millions", "annuity", "tax", "calculator"]
+}
